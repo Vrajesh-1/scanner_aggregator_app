@@ -1,0 +1,13 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 35
+    namespace 'com.kasem.gallerysaver'
+    defaultConfig {
+        minSdkVersion 21
+    }
+}
+
+dependencies {
+    implementation 'androidx.annotation:annotation:1.2.0'
+}

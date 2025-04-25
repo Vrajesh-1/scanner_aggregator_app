@@ -1,0 +1,9 @@
+name: qr_code_scanner
+version: 1.0.1
+homepage: https://pub.dev/packages/qr_code_scanner
+description: Patch for AGP 8.x compatibility (removed package attribute from AndroidManifest.xml)
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter

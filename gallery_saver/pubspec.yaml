@@ -1,0 +1,12 @@
+name: gallery_saver
+version: 2.3.2
+homepage: https://pub.dev/packages/gallery_saver
+description: Save images and videos to Gallery.
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.2
+  image: ^4.1.7
+  meta: ^1.11.0
