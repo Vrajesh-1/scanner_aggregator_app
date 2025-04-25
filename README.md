@@ -24,13 +24,43 @@ This project is designed for modern Android devices and follows best practices f
 
 ## Screenshots
 
-<div align="center">
-  <img src="screenshots/screenshot1.jpg" alt="Sign In Screen" width="250"/>
-  <img src="screenshots/screenshot2.jpg" alt="Home Screen" width="250"/>
-  <img src="screenshots/screenshot3.jpg" alt="Document Scanner" width="250"/>
-  <img src="screenshots/screenshot4.jpg" alt="QR Code Scanner" width="250"/>
-  <img src="screenshots/screenshot5.jpg" alt="Barcode Scanner" width="250"/>
-</div>
+<p align="center">
+  <img src="screenshots/screenshot1.jpg" alt="Sign In Screen" width="300"/>
+  <br/>
+  <b>Sign In Screen</b>
+</p>
+
+&nbsp;
+
+<p align="center">
+  <img src="screenshots/screenshot2.jpg" alt="Home Screen" width="300"/>
+  <br/>
+  <b>Home Screen</b>
+</p>
+
+&nbsp;
+
+<p align="center">
+  <img src="screenshots/screenshot3.jpg" alt="Document Scanner" width="300"/>
+  <br/>
+  <b>Document Scanner</b>
+</p>
+
+&nbsp;
+
+<p align="center">
+  <img src="screenshots/screenshot4.jpg" alt="QR Code Scanner" width="300"/>
+  <br/>
+  <b>QR Code Scanner</b>
+</p>
+
+&nbsp;
+
+<p align="center">
+  <img src="screenshots/screenshot5.jpg" alt="Barcode Scanner" width="300"/>
+  <br/>
+  <b>Barcode Scanner</b>
+</p>
 
 ---
 
